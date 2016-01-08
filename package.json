@@ -1,0 +1,22 @@
+{
+  "name": "made-instance",
+  "version": "0.1.0",
+  "description": "made instance",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonhao/made-instance.git"
+  },
+  "keywords": [
+    "instance"
+  ],
+  "author": "simonhao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simonhao/made-instance/issues"
+  },
+  "homepage": "https://github.com/simonhao/made-instance#readme"
+}
